@@ -1,0 +1,1 @@
+ltest<-getLinkFromWeb("http://www.google.com/search?sourceid=chrome&q=Seven%20years%20ago,%20homeowners%20in%20nearby%20Brookville%20community%20adopted%20a%20set%20of%20restrictions%20on%20how%20the%20community's%20yards%20should%20be%20landscaped")
